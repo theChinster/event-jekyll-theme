@@ -33,3 +33,5 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+remote_theme: melvinchng/event-jekyll-theme
